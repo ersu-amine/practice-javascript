@@ -2,14 +2,8 @@
 
 Created a timeline based on JavaScript topics using ChatGPT, let's see how well I can do (^_^)
 
-Day 1 - Introduction to JavaScript: Set up your environment (Node.js, VS Code), and run your first script using console.log.
+Finished 2, remaining 5
 
-    Print statements are slightly different than Java, there is no printing without a new line added.
-    name is a reserved keyword, able use it as variable name but must avoid 
-
-Day 2
-
-Variables & Data Types: Learn about var, let, const, and data types like string, number, boolean, null, and undefined.
 Day 3
 
 Operators: Understand arithmetic, comparison, and logical operators.
