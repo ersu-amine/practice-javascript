@@ -2,11 +2,7 @@
 
 Created a timeline based on JavaScript topics using ChatGPT, let's see how well I can do (^_^)
 
-Finished 2, remaining 5
-
-Day 3
-
-Operators: Understand arithmetic, comparison, and logical operators.
+Finished 3, remaining 4
 
 Day 4
 
