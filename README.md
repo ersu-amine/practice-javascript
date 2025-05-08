@@ -2,11 +2,7 @@
 
 Created a timeline based on JavaScript topics using ChatGPT, let's see how well I can do (^_^)
 
-Finished 3, remaining 4
-
-Day 4
-
-Conditional Statements: Practice using if, else if, else, and switch statements.
+Finished 4, remaining 3
 
 Day 5
 
