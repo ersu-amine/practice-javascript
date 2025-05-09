@@ -2,7 +2,7 @@
 
 Created a timeline based on JavaScript topics using ChatGPT, let's see how well I can do (^_^)
 
-Finished 4, remaining 3
+Finished 5, remaining 2
 
 Day 5
 
