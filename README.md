@@ -2,15 +2,7 @@
 
 Created a timeline based on JavaScript topics using ChatGPT, let's see how well I can do (^_^)
 
-Finished 5, remaining 2
-
-Day 5
-
-Loops: Explore for, while, do...while loops, and control statements like break and continue.
-
-Day 6
-
-Functions: Learn about function declarations, expressions, parameters, and return values.
+Finished 6, remaining 1
 
 Day 7
 
