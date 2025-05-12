@@ -1,10 +1,17 @@
-## 30 Day challange for myself to improve my understanding of JavaScript.
+## 30 Day JavaScript Challange - Week 2
 
-Created a timeline based on JavaScript topics using ChatGPT, let's see how well I can do (^_^)
+### Week 2 JavaScript Challenges
 
-Finished 6, remaining 1
+Day 8: Objects
 
-Day 7
+Day 9: Arrays
 
-Review & Practice: Solve 10 mini coding challenges focusing on loops and conditionals.
+Day 10: Array Methods
 
+Day 11: Date & Math
+
+Day 12: String Methods
+
+Day 13: Looping through Objects
+
+Day 14: Mini Project - Array Search
