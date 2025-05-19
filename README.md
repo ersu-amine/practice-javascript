@@ -1,8 +1,7 @@
 ## 30 Day JavaScript Challange - Week 2
 
 ### Week 2 JavaScript Challenges
-
-Day 8: Objects
+Little behind the schedule
 
 Day 9: Arrays
 
