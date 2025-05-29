@@ -1,9 +1,7 @@
 ## 30 Day JavaScript Challange - Week 2
 
 ### Week 2 JavaScript Challenges
-Little behind the schedule
-
-Day 9: Arrays
+Coming back after a break
 
 Day 10: Array Methods
 
